@@ -3,5 +3,5 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=azzlantern&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[!snake](https://raw.githubusercontent.com/azzlantern/azzlantern/refs/heads/output/github-contribution-grid-snake-dark.svg)
+![](https://raw.githubusercontent.com/azzlantern/azzlantern/refs/heads/output/github-contribution-grid-snake-dark.svg)
 
